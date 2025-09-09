@@ -62,7 +62,7 @@ This is all about me!!!
 ## 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/michael-ajayi-0a7926319" target="_blank">
+  <a href="https://www.linkedin.com/in/michael-ajayi-0a7926319" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/6C63FF/linkedin.png" width="40"/>
   </a>
   &nbsp;&nbsp;
